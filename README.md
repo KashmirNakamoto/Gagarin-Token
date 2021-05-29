@@ -1,2 +1,2 @@
-# ShawnToken-
-ShawnToken is a token for governance in Napster NFT.
+# Shawn Token
+ShawnToken is a token for governance in NFTsong.

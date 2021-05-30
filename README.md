@@ -1,2 +1,3 @@
-# Shawn Token
-ShawnToken is a token for governance in NFTsong.
+# Gagarin Token
+
+Gagarin Token is a BEP20 token for governance in NFTspace ecosystem like NFTsong, FileHeart and MemeCreator.
